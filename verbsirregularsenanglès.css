@@ -1,0 +1,22 @@
+h1 {
+    font-family: "Verdana";
+}
+
+h2 {
+    font-family: "Arial";
+    font-size: 19px;
+}
+
+hr {
+    width: 750px;
+    border: 1px solid black;
+}
+
+.color_1 {
+    background-color: rgb(236, 234, 234);
+    color: black
+}
+
+body {
+    background-color: antiquewhite;
+}
